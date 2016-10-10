@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015-08-06 10:40:21.006.pas,C:\Users\Administrator.XZ-20140210GASR\Documents\Borland Studio Projects\Unit2.pas=E:\工具\FTP转发\Source\uFrmMain.pas</Transaction>
+    <Transaction>2015-08-06 10:40:21.006.dfm,C:\Users\Administrator.XZ-20140210GASR\Documents\Borland Studio Projects\Unit2.dfm=E:\工具\FTP转发\Source\uFrmMain.dfm</Transaction>
+    <Transaction>2015-08-06 10:40:54.423.bdsproj,C:\Users\Administrator.XZ-20140210GASR\Documents\Borland Studio Projects\Project3.bdsproj=E:\工具\FTP转发\Source\FtpTransmit.bdsproj</Transaction>
+    <Transaction>2015-08-06 10:42:11.492.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\uDataModule.pas</Transaction>
+    <Transaction>2015-08-06 10:42:11.492.dfm,E:\工具\FTP转发\Source\Unit1.dfm=E:\工具\FTP转发\Source\uDataModule.dfm</Transaction>
+    <Transaction>2015-08-06 10:45:27.098.pas,E:\工具\FTP转发\Source\uDataModule.pas=E:\工具\FTP转发\Source\uGlobalDM.pas</Transaction>
+    <Transaction>2015-08-06 10:45:27.098.dfm,E:\工具\FTP转发\Source\uDataModule.dfm=E:\工具\FTP转发\Source\uGlobalDM.dfm</Transaction>
+    <Transaction>2015-08-06 12:59:03.770.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\功能单元\uFtpConfig.pas</Transaction>
+    <Transaction>2015-08-06 13:03:35.293.pas,E:\工具\FTP转发\Source\功能单元\uFtpConfig.pas=</Transaction>
+    <Transaction>2015-08-06 13:05:12.200.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\功能单元\数据库操作\uDBFtp.pas</Transaction>
+    <Transaction>2015-08-06 15:41:48.595.pas,E:\工具\FTP转发\Source\uFrmMain.pas=E:\工具\FTP转发\Source\uFrmMain_Ftp.pas</Transaction>
+    <Transaction>2015-08-06 15:41:48.595.dfm,E:\工具\FTP转发\Source\uFrmMain.dfm=E:\工具\FTP转发\Source\uFrmMain_Ftp.dfm</Transaction>
+    <Transaction>2015-08-07 09:14:40.124.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\功能窗口\配置\uFrmConfig.pas</Transaction>
+    <Transaction>2015-08-07 09:14:40.124.dfm,E:\工具\FTP转发\Source\Unit1.dfm=E:\工具\FTP转发\Source\功能窗口\配置\uFrmConfig.dfm</Transaction>
+    <Transaction>2015-08-07 09:34:22.681.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\功能窗口\配置\FTP转发\uFrmFtpTrans.pas</Transaction>
+    <Transaction>2015-08-07 09:34:22.681.dfm,E:\工具\FTP转发\Source\Unit1.dfm=E:\工具\FTP转发\Source\功能窗口\配置\FTP转发\uFrmFtpTrans.dfm</Transaction>
+    <Transaction>2015-08-07 13:59:28.786.pas,E:\工具\FTP转发\Source\功能单元\日志管理器\uLogManage.pas=</Transaction>
+    <Transaction>2015-08-07 14:46:05.129.pas,E:\工具\FTP转发\Source\功能单元\数据更新线程\uHttpDataUpdateMgr.pas=</Transaction>
+    <Transaction>2015-08-07 14:46:08.453.pas,E:\工具\FTP转发\Source\功能单元\数据更新线程\uUPDateThread.pas=</Transaction>
+    <Transaction>2015-08-11 16:56:24.731.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\功能单元\配置\uSharedConfig.pas</Transaction>
+    <Transaction>2015-08-11 16:58:17.369.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\功能单元\数据库操作\uDBSharedTrans.pas</Transaction>
+    <Transaction>2015-08-11 17:13:45.295.pas,E:\工具\FTP转发\Source\Unit1.pas=E:\工具\FTP转发\Source\功能窗口\配置\共享转发\uFrmSharedTrans.pas</Transaction>
+    <Transaction>2015-08-11 17:13:45.295.dfm,E:\工具\FTP转发\Source\Unit1.dfm=E:\工具\FTP转发\Source\功能窗口\配置\共享转发\uFrmSharedTrans.dfm</Transaction>
+    <Transaction>2015-08-12 08:26:03.992.bdsproj,E:\工具\FTP转发\Source\FtpTransmit.bdsproj=E:\工具\FTP转发\Source\Transmit.bdsproj</Transaction>
+    <Transaction>2015-08-12 08:26:12.467.pas,E:\工具\FTP转发\Source\uFrmMain_Ftp.pas=E:\工具\FTP转发\Source\uFrmMain.pas</Transaction>
+    <Transaction>2015-08-12 08:26:12.467.dfm,E:\工具\FTP转发\Source\uFrmMain_Ftp.dfm=E:\工具\FTP转发\Source\uFrmMain.dfm</Transaction>
+    <Transaction>2015-08-12 09:35:57.026.pas,E:\工具\转发\Source\Unit1.pas=E:\工具\转发\Source\功能单元\共享拷贝\uSharedCopy.pas</Transaction>
+    <Transaction>2015-08-12 12:47:10.546.pas,E:\工具\转发\Source\uFrmMain.pas=E:\工具\转发\Source\uFrmMain_Transmit.pas</Transaction>
+    <Transaction>2015-08-12 12:47:10.546.dfm,E:\工具\转发\Source\uFrmMain.dfm=E:\工具\转发\Source\uFrmMain_Transmit.dfm</Transaction>
+    <Transaction>2015-09-25 08:36:40.430.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能窗口\选择文件窗口\uFrmFileSel.pas</Transaction>
+    <Transaction>2015-09-25 08:36:40.430.dfm,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.dfm=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能窗口\选择文件窗口\uFrmFileSel.dfm</Transaction>
+    <Transaction>2015-11-11 15:34:58.761.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\配置\uSystemConfig.pas</Transaction>
+    <Transaction>2015-11-11 17:27:03.708.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\共享拷贝\uSharedCopy.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\共享拷贝\uSharedOper.pas</Transaction>
+    <Transaction>2015-11-11 17:28:37.829.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\FTP传输\uFtpOper.pas</Transaction>
+    <Transaction>2015-11-12 09:18:54.644.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\共享拷贝\uSharedManager.pas</Transaction>
+    <Transaction>2015-11-12 09:32:33.753.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\uTransManager.pas</Transaction>
+    <Transaction>2015-11-12 10:53:26.092.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\FTP传输\uFtpManager.pas</Transaction>
+    <Transaction>2015-11-12 13:58:05.712.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\共享拷贝\uSharedManager.pas=</Transaction>
+    <Transaction>2015-11-12 13:58:09.190.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\共享拷贝\uSharedOper.pas=</Transaction>
+    <Transaction>2015-11-12 13:58:25.396.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\FTP传输\uFtpOper.pas=</Transaction>
+    <Transaction>2015-11-12 13:58:28.014.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\FTP传输\uFtpManager.pas=</Transaction>
+    <Transaction>2015-11-12 14:15:59.457.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能窗口\记录查看\uFrmLog.pas</Transaction>
+    <Transaction>2015-11-12 14:15:59.457.dfm,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.dfm=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能窗口\记录查看\uFrmLog.dfm</Transaction>
+    <Transaction>2015-11-12 14:21:10.455.pas,E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\转发\Source\功能单元\操作日志\uDBLog.pas</Transaction>
+  </Transactions>
+</BorlandProject>
